@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStudyFour/SecondFiles/Controller/GaoDeViewController.swift"
+            timestampString = "540020458.931137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "reGeocodeAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStudyFour/SecondFiles/Controller/GaoDeViewController.swift"
+            timestampString = "540020458.931453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "initCompletionBlock()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftStudyFour.GaoDeViewController.initCompletionBlock() -&gt; ()"
+                  moduleName = "SwiftStudyFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wanggang/Documents/Study/IOS/%E5%86%99%E7%9D%80%E7%8E%A9/SwiftStudyFour/SwiftStudyFour/SecondFiles/Controller/GaoDeViewController.swift"
+                  timestampString = "542535299.711569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.CLLocation&gt;, Swift.Optional&lt;__ObjC.AMapLocationReGeocode&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftStudyFour.GaoDeViewController.initCompletionBlock() -&gt; ()"
+                  moduleName = "SwiftStudyFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wanggang/Documents/Study/IOS/%E5%86%99%E7%9D%80%E7%8E%A9/SwiftStudyFour/SwiftStudyFour/SecondFiles/Controller/GaoDeViewController.swift"
+                  timestampString = "542535299.71395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
